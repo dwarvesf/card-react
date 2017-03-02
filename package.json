@@ -1,6 +1,6 @@
 {
-  "name": "card-react",
-  "version": "1.2.5",
+  "name": "@dwarvesf/card-react",
+  "version": "1.2.6",
   "description": "Add an interactive credit card animation to your payment form.",
   "main": "lib/card-react-form-container.js",
   "dependencies": {
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shatran/card-react.git"
+    "url": "https://github.com/dwarvesf/card-react.git"
   },
   "keywords": [
     "card-react",
@@ -52,7 +52,7 @@
   "author": "Shay Stern",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shatran/card-react/issues"
+    "url": "https://github.com/dwarvesf/card-react/issues"
   },
-  "homepage": "https://github.com/shatran/card-react"
+  "homepage": "https://github.com/dwarvesf/card-react"
 }
